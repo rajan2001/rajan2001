@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-time Developer. A tech enthusiast, who loves<br>building and deploying scalable applications. <br>Interested in Web, Blockchain, and DevOps.
+Full-time Developer. A tech enthusiast, who loves building and deploying scalable applications. <br>Interested in Web, Blockchain, and DevOps.
 
 
 ## 🌐 Socials:
